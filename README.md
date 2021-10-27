@@ -1,2 +1,2 @@
 ### ...
-Univercity Repo: https://github.com/DeRuss404
+University Repo: https://github.com/DeRuss404
