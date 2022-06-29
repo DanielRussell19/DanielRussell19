@@ -1,8 +1,6 @@
 ## Personal Statement Snippet
 
-I am a computing science graduate and a programming
-hobbyist adept in object-oriented programming and
-web-based development. 
+I am a computing science graduate and a programming hobbyist adept in software and web-based development.
 
 I am motivated by my curiosity to
 problem solve while learning new skills and unfamiliar
